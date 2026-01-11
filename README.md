@@ -110,7 +110,8 @@ We welcome contributions! Please see individual repository CONTRIBUTING.md files
 
 ## 📧 Contact
 
-**Miller Lab**  
+**Miller Lab**
+**C. Ryan Miller, MD, PhD**
 University of Alabama at Birmingham  
 Birmingham, AL 35294
 
