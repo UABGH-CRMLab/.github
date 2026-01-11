@@ -110,10 +110,9 @@ We welcome contributions! Please see individual repository CONTRIBUTING.md files
 
 ## 📧 Contact
 
-**CRM Lab**
-**C. Ryan Miller, MD, PhD
+**C. Ryan Miller, MD, PhD**  
 University of Alabama at Birmingham  
-Birmingham, AL 35294
+Birmingham, AL 35294  
 
 For questions, bug reports, or collaboration inquiries, please open an issue in the relevant repository.
 
