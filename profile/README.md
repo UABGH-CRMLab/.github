@@ -1,8 +1,8 @@
-# UAB Cancer Research Methods Lab
+# C. Ryan Miller Lab at UAB
 
-**Bioinformatics | Genomics | Computational Biology**
+**Bioinformatics | Genomics | Computational Biology | Signal Transduction | Kinome | Molecular Neuropathology | Gliomas**
 
-Welcome to the GitHub organization for the Cancer Research Methods (CRM) Lab at the University of Alabama at Birmingham. We develop and maintain open-source tools for RNA-seq analysis, bioinformatics workflows, and cancer genomics research.
+Welcome to the GitHub organization for the C. Ryan Miller (CRM) Lab at the University of Alabama at Birmingham. We develop and maintain open-source tools for bioinformatics workflows and cancer genomics research.
 
 ---
 
@@ -110,7 +110,8 @@ We welcome contributions! Please see individual repository CONTRIBUTING.md files
 
 ## 📧 Contact
 
-**Cancer Research Methods Lab**  
+**CRM Lab**
+**C. Ryan Miller, MD, PhD
 University of Alabama at Birmingham  
 Birmingham, AL 35294
 
