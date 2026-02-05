@@ -76,7 +76,7 @@ Curated collection of gene sets and annotation resources for pathway analysis an
 
 ---
 
-### [crmlab-workspace](https://github.com/UABGH-CRMLab/crmlab-workspace)
+### [crmlabWorkspace](https://github.com/UABGH-CRMLab/crmlabWorkspace)
 **Multi-Repository Development Workspace**
 
 VSCode workspace configuration for unified development across all lab infrastructure repositories.
@@ -97,7 +97,7 @@ VSCode workspace configuration for unified development across all lab infrastruc
 1. **Clone the workspace and all repositories:**
    ```bash
    cd /data
-   git clone https://github.com/UABGH-CRMLab/crmlab-workspace.git
+   git clone https://github.com/UABGH-CRMLab/crmlabWorkspace.git
    git clone https://github.com/UABGH-CRMLab/crmlabBioStack.git
    git clone https://github.com/UABGH-CRMLab/crmlabBulkRNA.git
    git clone https://github.com/UABGH-CRMLab/crmlabDB.git
@@ -106,10 +106,10 @@ VSCode workspace configuration for unified development across all lab infrastruc
 
 2. **Open the multi-root workspace in VSCode:**
    ```bash
-   code crmlab-workspace/crmlab-workspace.code-workspace
+   code crmlabWorkspace/crmlabWorkspace.code-workspace
    ```
 
-3. **See the [Developer Onboarding Guide](https://github.com/UABGH-CRMLab/crmlab-workspace/blob/main/docs/DEVELOPER_ONBOARDING.md)** for complete setup instructions
+3. **See the [Developer Onboarding Guide](https://github.com/UABGH-CRMLab/crmlabWorkspace/blob/main/docs/DEVELOPER_ONBOARDING.md)** for complete setup instructions
 
 ### For External Users (RNA-seq Analysis Only)
 
@@ -138,9 +138,9 @@ VSCode workspace configuration for unified development across all lab infrastruc
 ## 📚 Documentation
 
 - **Workspace Documentation:**
-  - [Developer Onboarding Guide](https://github.com/UABGH-CRMLab/crmlab-workspace/blob/main/docs/DEVELOPER_ONBOARDING.md) - Get started with the lab environment
-  - [Multi-Repo Workflow](https://github.com/UABGH-CRMLab/crmlab-workspace/blob/main/docs/MULTI_REPO_WORKFLOW.md) - Working across repositories
-  - [Wiki Templates](https://github.com/UABGH-CRMLab/crmlab-workspace/wiki) - Documentation and knowledge base
+  - [Developer Onboarding Guide](https://github.com/UABGH-CRMLab/crmlabWorkspace/blob/main/docs/DEVELOPER_ONBOARDING.md) - Get started with the lab environment
+  - [Multi-Repo Workflow](https://github.com/UABGH-CRMLab/crmlabWorkspace/blob/main/docs/MULTI_REPO_WORKFLOW.md) - Working across repositories
+  - [Wiki Templates](https://github.com/UABGH-CRMLab/crmlabWorkspace/wiki) - Documentation and knowledge base
 
 - **RNA-seq Template:**
   - [README](https://github.com/UABGH-CRMLab/crmlabBulkRNA/blob/main/README.md) - Overview and quick start
@@ -174,7 +174,7 @@ We welcome contributions! All infrastructure repositories use:
 - **CI/CD Testing:** Automated workflows validate code before merge
 - **Documentation:** Clear README files and inline documentation required
 
-For lab members, see the [Developer Onboarding Guide](https://github.com/UABGH-CRMLab/crmlab-workspace/blob/main/docs/DEVELOPER_ONBOARDING.md).
+For lab members, see the [Developer Onboarding Guide](https://github.com/UABGH-CRMLab/crmlabWorkspace/blob/main/docs/DEVELOPER_ONBOARDING.md).
 
 External contributors should open issues to discuss changes before submitting PRs.
 
@@ -204,7 +204,7 @@ All software is released under the MIT License unless otherwise specified. See i
 | [crmlabBulkRNA](https://github.com/UABGH-CRMLab/crmlabBulkRNA) | v1.1 | 2026-02-05 | Infrastructure standardization |
 | [crmlabDB](https://github.com/UABGH-CRMLab/crmlabDB) | v1.1 | 2026-02-05 | Database with Shiny interface |
 | [crmlabAnnoHub](https://github.com/UABGH-CRMLab/crmlabAnnoHub) | v1.1 | 2026-02-05 | Gene set annotation hub |
-| [crmlab-workspace](https://github.com/UABGH-CRMLab/crmlab-workspace) | v1.1 | 2026-02-05 | Multi-repo workspace |
+| [crmlabWorkspace](https://github.com/UABGH-CRMLab/crmlabWorkspace) | v1.1 | 2026-02-05 | Multi-repo workspace |
 
 ---
 
