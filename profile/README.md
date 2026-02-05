@@ -27,7 +27,8 @@ docker pull uabcrmlab/crmlabbiostack:2.5
 docker run -d -p 8787:8787 -e PASSWORD=yourpassword uabcrmlab/crmlabbiostack:2.5
 ```
 
-**Latest Version:** [v2.5](https://hub.docker.com/r/uabcrmlab/crmlabbiostack) - Production Release
+**Latest Version:** v2.5 - Production Release
+**Links:** [GitHub Repository](https://github.com/UABGH-CRMLab/crmlabBioStack) • [Docker Hub](https://hub.docker.com/r/uabcrmlab/crmlabbiostack)
 
 ---
 
