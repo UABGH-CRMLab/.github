@@ -1,4 +1,4 @@
-# C. Ryan Miller Lab at UAB
+# C. Ryan Miller Lab @ UAB
 
 **Gliomas | Molecular Neuropathology | Kinome | Signal Transduction | Genomics | Bioinformatics | Computational Biology**
 
