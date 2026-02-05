@@ -1,6 +1,6 @@
 # C. Ryan Miller Lab at UAB
 
-**Bioinformatics | Genomics | Computational Biology | Signal Transduction | Kinome | Molecular Neuropathology | Gliomas**
+**Gliomas | Molecular Neuropathology | Kinome | Signal Transduction | Genomics | Bioinformatics | Computational Biology**
 
 Welcome to the GitHub organization for the research laboratory of C. Ryan Miller, MD, PhD (CRM) at the University of Alabama at Birmingham. We develop and maintain open-source tools for bioinformatics workflows and cancer genomics research.
 
