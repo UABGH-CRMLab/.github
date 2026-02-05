@@ -2,7 +2,7 @@
 
 **Gliomas | Molecular Neuropathology | Kinome | Signal Transduction | Genomics | Bioinformatics | Computational Biology**
 
-Welcome to the GitHub organization for the research laboratory of C. Ryan Miller, MD, PhD (CRM) at the University of Alabama at Birmingham. We develop and maintain open-source tools for bioinformatics workflows and cancer genomics research.
+Welcome to the GitHub organization for the research laboratory of C. Ryan Miller, MD, PhD (CRM) at the University of Alabama at Birmingham (UAB). We develop and maintain open-source tools for bioinformatics workflows and cancer genomics research.
 
 ---
 
@@ -37,11 +37,11 @@ Docker container optimized for genomics analysis with RStudio Server, R 4.5.1, B
 
 **Quick Start:**
 ```bash
-docker pull uabcrmlab/crmlabbiostack:2.5
-docker run -d -p 8787:8787 -e PASSWORD=yourpassword uabcrmlab/crmlabbiostack:2.5
+docker pull uabcrmlab/crmlabbiostack:2.6.0
+docker run -d -p 8787:8787 -e PASSWORD=yourpassword uabcrmlab/crmlabbiostack:2.6.0
 ```
 
-**Latest Version:** v2.5 - Production Release |
+**Latest Version:** v2.6.0 - Production Release |
 **Links:** [GitHub](https://github.com/UABGH-CRMLab/crmlabBioStack) • [DockerHub](https://hub.docker.com/r/uabcrmlab/crmlabbiostack)
 
 ---
@@ -52,7 +52,7 @@ docker run -d -p 8787:8787 -e PASSWORD=yourpassword uabcrmlab/crmlabbiostack:2.5
 SQLite database with Shiny web interface for managing experimental metadata, sample tracking, and analysis results.
 
 **Features:**
-- 🗄️ SQLite database for lab data management
+- 🗄️ SQLite database for sample metadata management
 - 📱 Interactive Shiny web interface
 - 🔍 Sample and experiment tracking
 - 📊 Analysis results integration
@@ -87,7 +87,7 @@ Production-grade template combining DESeq2 differential expression with clusterP
 - 📦 Reproducible analysis reports
 - ✅ CI/CD validation for template structure and R syntax
 
-**Latest Release:** [v1.1](https://github.com/UABGH-CRMLab/crmlabBulkRNA/releases/latest) - Standardized Infrastructure
+**Latest Release:** [v1.2.0](https://github.com/UABGH-CRMLab/crmlabBulkRNA/releases/latest) - Standardized Infrastructure
 
 ---
 
@@ -125,7 +125,7 @@ Production-grade template combining DESeq2 differential expression with clusterP
    docker run -d -p 8787:8787 \
      -v $(pwd):/data/crmlabBulkRNA \
      -e PASSWORD=rstudio \
-     uabcrmlab/crmlabbiostack:2.5
+     uabcrmlab/crmlabbiostack:2.6.0
    ```
 
 3. **Access RStudio:** Navigate to `http://localhost:8787` (user: `rstudio`)
@@ -202,7 +202,7 @@ All software is released under the MIT License unless otherwise specified. See i
 | Repository | Version | Release Date | Notes |
 |-----------|---------|--------------|-------|
 | [crmlabWorkspace](https://github.com/UABGH-CRMLab/crmlabWorkspace) | v1.1 | 2026-02-05 | Multi-repo workspace |
-| [crmlabBioStack](https://github.com/UABGH-CRMLab/crmlabBioStack) | v2.5 | 2026-02-05 | Production release with CI/CD |
+| [crmlabBioStack](https://github.com/UABGH-CRMLab/crmlabBioStack) | v2.6 | 2026-02-05 | Pre-commit + dev tools (black, flake8, covr, lintr) |
 | [crmlabDB](https://github.com/UABGH-CRMLab/crmlabDB) | v1.1 | 2026-02-05 | Database with Shiny interface |
 | [crmlabAnnoHub](https://github.com/UABGH-CRMLab/crmlabAnnoHub) | v1.1 | 2026-02-05 | Gene set annotation hub |
 | [crmlabBulkRNA](https://github.com/UABGH-CRMLab/crmlabBulkRNA) | v1.2 | 2026-02-05 | Documentation reorganization |
