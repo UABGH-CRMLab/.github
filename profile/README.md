@@ -202,7 +202,7 @@ All software is released under the MIT License unless otherwise specified. See i
 | Repository | Version | Release Date | Notes |
 |-----------|---------|--------------|-------|
 | [crmlabBioStack](https://github.com/UABGH-CRMLab/crmlabBioStack) | v2.5 | 2026-02-05 | Production release with CI/CD |
-| [crmlabBulkRNA](https://github.com/UABGH-CRMLab/crmlabBulkRNA) | v1.1 | 2026-02-05 | Infrastructure standardization |
+| [crmlabBulkRNA](https://github.com/UABGH-CRMLab/crmlabBulkRNA) | v1.2 | 2026-02-05 | Documentation reorganization |
 | [crmlabDB](https://github.com/UABGH-CRMLab/crmlabDB) | v1.1 | 2026-02-05 | Database with Shiny interface |
 | [crmlabAnnoHub](https://github.com/UABGH-CRMLab/crmlabAnnoHub) | v1.1 | 2026-02-05 | Gene set annotation hub |
 | [crmlabWorkspace](https://github.com/UABGH-CRMLab/crmlabWorkspace) | v1.1 | 2026-02-05 | Multi-repo workspace |
