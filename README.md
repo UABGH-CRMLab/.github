@@ -201,9 +201,9 @@ All software is released under the MIT License unless otherwise specified. See i
 
 | Repository | Version | Release Date | Notes |
 |-----------|---------|--------------|-------|
-| [crmlabWorkspace](https://github.com/UABGH-CRMLab/crmlabWorkspace) | v1.1 | 2026-02-05 | Multi-repo workspace |
-| [crmlabBioStack](https://github.com/UABGH-CRMLab/crmlabBioStack) | v2.6 | 2026-02-05 | Pre-commit + dev tools (black, flake8, covr, lintr) |
-| [crmlabDB](https://github.com/UABGH-CRMLab/crmlabDB) | v1.1 | 2026-02-05 | Database with Shiny interface |
-| [crmlabAnnoHub](https://github.com/UABGH-CRMLab/crmlabAnnoHub) | v1.1 | 2026-02-05 | Gene set annotation hub |
-| [crmlabBulkRNA](https://github.com/UABGH-CRMLab/crmlabBulkRNA) | v1.2 | 2026-02-05 | Documentation reorganization |
+| [crmlabWorkspace](https://github.com/UABGH-CRMLab/crmlabWorkspace) | v1.1.0 | 2026-02-05 | Multi-repo workspace |
+| [crmlabBioStack](https://github.com/UABGH-CRMLab/crmlabBioStack) | v2.6.0 | 2026-02-05 | Pre-commit + dev tools (black, flake8, covr, lintr) |
+| [crmlabDB](https://github.com/UABGH-CRMLab/crmlabDB) | v1.1.0 | 2026-02-05 | Database with Shiny interface |
+| [crmlabAnnoHub](https://github.com/UABGH-CRMLab/crmlabAnnoHub) | v1.1.0 | 2026-02-05 | Gene set annotation hub |
+| [crmlabBulkRNA](https://github.com/UABGH-CRMLab/crmlabBulkRNA) | v1.2.0 | 2026-02-05 | Documentation reorganization |
 
