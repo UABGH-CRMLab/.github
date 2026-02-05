@@ -2,7 +2,7 @@
 
 **Bioinformatics | Genomics | Computational Biology | Signal Transduction | Kinome | Molecular Neuropathology | Gliomas**
 
-Welcome to the GitHub organization for the C. Ryan Miller (CRM) Lab at the University of Alabama at Birmingham. We develop and maintain open-source tools for bioinformatics workflows and cancer genomics research.
+Welcome to the GitHub organization for the research laboratory of C. Ryan Miller, MD, PhD (CRM) at the University of Alabama at Birmingham. We develop and maintain open-source tools for bioinformatics workflows and cancer genomics research.
 
 ---
 
