@@ -27,8 +27,8 @@ docker pull uabcrmlab/crmlabbiostack:2.5
 docker run -d -p 8787:8787 -e PASSWORD=yourpassword uabcrmlab/crmlabbiostack:2.5
 ```
 
-**Latest Version:** v2.5 - Production Release
-**Links:** [GitHub Repository](https://github.com/UABGH-CRMLab/crmlabBioStack) • [Docker Hub](https://hub.docker.com/r/uabcrmlab/crmlabbiostack)
+**Latest Version:** v2.5 - Production Release | 
+**Links:** [GitHub](https://github.com/UABGH-CRMLab/crmlabBioStack) • [DockerHub](https://hub.docker.com/r/uabcrmlab/crmlabbiostack)
 
 ---
 
@@ -207,10 +207,3 @@ All software is released under the MIT License unless otherwise specified. See i
 | [crmlabAnnoHub](https://github.com/UABGH-CRMLab/crmlabAnnoHub) | v1.1 | 2026-02-05 | Gene set annotation hub |
 | [crmlabWorkspace](https://github.com/UABGH-CRMLab/crmlabWorkspace) | v1.1 | 2026-02-05 | Multi-repo workspace |
 
----
-
-<div align="center">
-
-**[Repositories](https://github.com/orgs/UABGH-CRMLab/repositories)** • **[Docker Hub](https://hub.docker.com/u/uabcrmlab)** • **[UAB O'Neal Comprehensive Cancer Center](https://www.uab.edu/onealcancercenter/)**
-
-</div>

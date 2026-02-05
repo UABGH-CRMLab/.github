@@ -206,11 +206,3 @@ All software is released under the MIT License unless otherwise specified. See i
 | [crmlabDB](https://github.com/UABGH-CRMLab/crmlabDB) | v1.1 | 2026-02-05 | Database with Shiny interface |
 | [crmlabAnnoHub](https://github.com/UABGH-CRMLab/crmlabAnnoHub) | v1.1 | 2026-02-05 | Gene set annotation hub |
 | [crmlabWorkspace](https://github.com/UABGH-CRMLab/crmlabWorkspace) | v1.1 | 2026-02-05 | Multi-repo workspace |
-
----
-
-<div align="center">
-
-**[Repositories](https://github.com/orgs/UABGH-CRMLab/repositories)** • **[Docker Hub](https://hub.docker.com/u/uabcrmlab)** • **[UAB O'Neal Comprehensive Cancer Center](https://www.uab.edu/onealcancercenter/)**
-
-</div>
