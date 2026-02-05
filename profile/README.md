@@ -8,6 +8,20 @@ Welcome to the GitHub organization for the research laboratory of C. Ryan Miller
 
 ## 🧬 Infrastructure Repositories
 
+### [crmlabWorkspace](https://github.com/UABGH-CRMLab/crmlabWorkspace)
+**Multi-Repository Development Workspace**
+
+VSCode workspace configuration for unified development across all lab infrastructure repositories.
+
+**Features:**
+- 📁 Multi-root workspace for seamless navigation
+- 🔧 Shared development tools and settings
+- 📖 Comprehensive documentation and onboarding guides
+- 🤖 GitHub Copilot integration
+- ✅ CODEOWNERS for automated code review
+
+---
+
 ### [crmlabBioStack](https://github.com/UABGH-CRMLab/crmlabBioStack)
 **Bioinformatics Development Container**
 
@@ -29,24 +43,6 @@ docker run -d -p 8787:8787 -e PASSWORD=yourpassword uabcrmlab/crmlabbiostack:2.5
 
 **Latest Version:** v2.5 - Production Release
 **Links:** [GitHub Repository](https://github.com/UABGH-CRMLab/crmlabBioStack) • [Docker Hub](https://hub.docker.com/r/uabcrmlab/crmlabbiostack)
-
----
-
-### [crmlabBulkRNA](https://github.com/UABGH-CRMLab/crmlabBulkRNA)
-**RNA-seq Analysis Template**
-
-Production-grade template combining DESeq2 differential expression with clusterProfiler GSEA enrichment analysis. Processes Salmon quantifications through a modular R/RMarkdown architecture with automated MSigDB integration.
-
-**Features:**
-- 🔬 Multi-factor experimental designs (factorial, interaction models)
-- 📊 Comprehensive QC and visualization suite
-- 🧪 Automated gene set enrichment (GSEA/ORA)
-- 🐭 Multi-species support (human, mouse)
-- ⚡ High-performance parallel processing
-- 📦 Reproducible analysis reports
-- ✅ CI/CD validation for template structure and R syntax
-
-**Latest Release:** [v1.1](https://github.com/UABGH-CRMLab/crmlabBulkRNA/releases/latest) - Standardized Infrastructure
 
 ---
 
@@ -77,17 +73,21 @@ Curated collection of gene sets and annotation resources for pathway analysis an
 
 ---
 
-### [crmlabWorkspace](https://github.com/UABGH-CRMLab/crmlabWorkspace)
-**Multi-Repository Development Workspace**
+### [crmlabBulkRNA](https://github.com/UABGH-CRMLab/crmlabBulkRNA)
+**RNA-seq Analysis Template**
 
-VSCode workspace configuration for unified development across all lab infrastructure repositories.
+Production-grade template combining DESeq2 differential expression with clusterProfiler GSEA enrichment analysis. Processes Salmon quantifications through a modular R/RMarkdown architecture with automated MSigDB integration.
 
 **Features:**
-- 📁 Multi-root workspace for seamless navigation
-- 🔧 Shared development tools and settings
-- 📖 Comprehensive documentation and onboarding guides
-- 🤖 GitHub Copilot integration
-- ✅ CODEOWNERS for automated code review
+- 🔬 Multi-factor experimental designs (factorial, interaction models)
+- 📊 Comprehensive QC and visualization suite
+- 🧪 Automated gene set enrichment (GSEA/ORA)
+- 🐭 Multi-species support (human, mouse)
+- ⚡ High-performance parallel processing
+- 📦 Reproducible analysis reports
+- ✅ CI/CD validation for template structure and R syntax
+
+**Latest Release:** [v1.1](https://github.com/UABGH-CRMLab/crmlabBulkRNA/releases/latest) - Standardized Infrastructure
 
 ---
 
@@ -100,9 +100,9 @@ VSCode workspace configuration for unified development across all lab infrastruc
    cd /data
    git clone https://github.com/UABGH-CRMLab/crmlabWorkspace.git
    git clone https://github.com/UABGH-CRMLab/crmlabBioStack.git
-   git clone https://github.com/UABGH-CRMLab/crmlabBulkRNA.git
    git clone https://github.com/UABGH-CRMLab/crmlabDB.git
    git clone https://github.com/UABGH-CRMLab/crmlabAnnoHub.git
+   git clone https://github.com/UABGH-CRMLab/crmlabBulkRNA.git
    ```
 
 2. **Open the multi-root workspace in VSCode:**
@@ -201,8 +201,8 @@ All software is released under the MIT License unless otherwise specified. See i
 
 | Repository | Version | Release Date | Notes |
 |-----------|---------|--------------|-------|
+| [crmlabWorkspace](https://github.com/UABGH-CRMLab/crmlabWorkspace) | v1.1 | 2026-02-05 | Multi-repo workspace |
 | [crmlabBioStack](https://github.com/UABGH-CRMLab/crmlabBioStack) | v2.5 | 2026-02-05 | Production release with CI/CD |
-| [crmlabBulkRNA](https://github.com/UABGH-CRMLab/crmlabBulkRNA) | v1.2 | 2026-02-05 | Documentation reorganization |
 | [crmlabDB](https://github.com/UABGH-CRMLab/crmlabDB) | v1.1 | 2026-02-05 | Database with Shiny interface |
 | [crmlabAnnoHub](https://github.com/UABGH-CRMLab/crmlabAnnoHub) | v1.1 | 2026-02-05 | Gene set annotation hub |
-| [crmlabWorkspace](https://github.com/UABGH-CRMLab/crmlabWorkspace) | v1.1 | 2026-02-05 | Multi-repo workspace |
+| [crmlabBulkRNA](https://github.com/UABGH-CRMLab/crmlabBulkRNA) | v1.2 | 2026-02-05 | Documentation reorganization |
